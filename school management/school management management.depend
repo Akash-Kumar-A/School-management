@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683615533 source:c:\users\akash\onedrive\desktop\school management management\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	<stdlib.h>
+	<cstring>
+	<windows.h>
+	<time.h>
+	<dos.h>
+	<algorithm>
+
